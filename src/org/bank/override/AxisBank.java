@@ -7,6 +7,7 @@ public class AxisBank extends BankInfo {
 	}
 	public void deposit() {
 		System.out.println("12%");
+		System.out.println("git");
 
 	}
 	public static void main(String[] args) {
